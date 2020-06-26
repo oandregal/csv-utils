@@ -25,5 +25,10 @@
     "eslint-plugin-wpcalypso": "3.0.1",
     "faucet": "0.0.1",
     "tape": "4.6.3"
+  },
+  "dependencies": {
+    "csv-parser": "1.11.0",
+    "csv-stringify": "1.0.4",
+    "lodash.forown": "4.4.0"
   }
 }
