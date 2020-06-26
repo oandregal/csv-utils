@@ -1,4 +1,4 @@
-# csv-utis-untangle
+# csv-utils-untangle
 
 This utility take a CSV file like:
 
