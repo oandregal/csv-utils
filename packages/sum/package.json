@@ -1,6 +1,6 @@
 {
   "name": "csv-utils-sum",
-  "version": "0.0.3",
+  "version": "0.0.4-rc.0",
   "description": "Utility that helps you to sum CSV file columns",
   "keywords": [
     "csv"
