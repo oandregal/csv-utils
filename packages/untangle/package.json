@@ -1,6 +1,6 @@
 {
   "name": "csv-utils-untangle",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Utility to untangle CSVs",
   "main": "index.js",
   "scripts": {
