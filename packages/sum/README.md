@@ -1,4 +1,4 @@
-# Sum CSV
+# csv-utis-untangle
 
 This utility take a CSV file like:
 
