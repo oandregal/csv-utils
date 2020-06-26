@@ -1,4 +1,4 @@
-# Untangle CSV columns
+# Untangle CSV
 
 This utility converts this stream:
 

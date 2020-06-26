@@ -1,4 +1,4 @@
-# Sum CSV columns
+# Sum CSV
 
 This utility take a CSV file like:
 
