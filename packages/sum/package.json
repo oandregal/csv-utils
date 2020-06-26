@@ -1,0 +1,22 @@
+{
+  "name": "sum-csv",
+  "version": "0.0.1",
+  "description": "Utility that helps you to sum CSV file columns",
+  "keywords": [
+    "csv"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "author": "Andrés Maneiro <andres.maneiro@gmail.com>",
+  "url": "https://github.com/nosolosow/csv-utils",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nosolosow/csv-utils.git"
+  },
+  "bin": {
+    "sum-csv": "./index.js"
+  },
+  "scripts": {
+    "test": "tape test.js | faucet"
+  }
+}

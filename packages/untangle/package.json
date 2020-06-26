@@ -1,0 +1,22 @@
+{
+  "name": "csv-utils-untangle",
+  "version": "0.0.2",
+  "description": "Utility to untangle CSVs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nosolosow/csv-utils.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Andrés Maneiro <andres.maneiro@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nosolosow/csv-utils/issues"
+  },
+  "homepage": "https://github.com/nosolosow/csv-utils#readme"
+}
