@@ -18,5 +18,12 @@
   },
   "scripts": {
     "test": "tape test.js | faucet"
+  },
+  "devDependencies": {
+    "eslint": "3.15.0",
+    "eslint-config-wpcalypso": "0.6.0",
+    "eslint-plugin-wpcalypso": "3.0.1",
+    "faucet": "0.0.1",
+    "tape": "4.6.3"
   }
 }
